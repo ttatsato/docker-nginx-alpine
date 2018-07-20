@@ -6,7 +6,7 @@ alpine上にnignxコンテナを立てる
 
 ```
 # htmlとか、画面に写す系のやつを置くところ.
-mkdir ./data/html/
+mkdir -p ./data/html/
 # webサーバーとしての設定
-mkdir ./web/
+mkdir -p ./web/
 ```
